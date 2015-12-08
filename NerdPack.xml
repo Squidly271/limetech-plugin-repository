@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/eschultz/unraid6-nerdpack/master/NerdPack.plg</PluginURL>
+<PluginAuthor>eschultz</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Nerd Pack</Name>
+<Description>
+Extra packages, mostly CLI, for advanced users. Use at your own risk. Not officially supported by LimeTech.  Use at your own risk and do not ask for direct support from us on the use of these tools.
+
+Contains: iftop, iotop, screen, lshw, kbd, inotify-tools, cpio, unrar, bwm-ng, strace, git, lftp, subversion, python, sshfs, iperf, p7zip and others
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=37541.0</Support>
+<Icon>https://raw.githubusercontent.com/Squidly271/limetech-plugin-repository/master/NerdPack.png</Icon>
+</Containers>
